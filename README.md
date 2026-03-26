@@ -11,5 +11,5 @@ The rule structure:</br>
         &ensp;"multiply": {"value": 0.05}</br>
     &nbsp;}</br>
 }</br>
-It is for mentioned mechanics, 5% of amount if amount more than 10.
+It is for mentioned mechanics, 5% of amount if amount more than 10.</br>
 Rule parsing occurs through an intermediate tagged unions into VTable interfaces.
